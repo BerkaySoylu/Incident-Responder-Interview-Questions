@@ -69,7 +69,10 @@ An indicator of compromise (IOC) is any observable evidence or artifact that may
 
 ### Explain the difference between proactive and reactive incident response strategies.
 
-Proactive incident response involves implementing preventive measures and proactive monitoring to identify and mitigate security risks before they escalate into incidents. Reactive incident response, on the other hand, focuses on responding to security incidents after they have occurred, including detection, analysis, containment, eradication, and recovery activities.
+Proactive incident response involves implementing preventive measures and proactive monitoring to identify and mitigate security risks before they escalate into incidents. 
+Reactive incident response, on the other hand, focuses on responding to security incidents after they have occurred, including detection, analysis, containment, eradication, and recovery activities.
+
+###
 
 
 
@@ -94,3 +97,6 @@ Proactive incident response involves implementing preventive measures and proact
 ## References
 
  - https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf
+ - https://csrc.nist.gov/
+ - https://www.cisa.gov/
+ - https://www.sans.org/
